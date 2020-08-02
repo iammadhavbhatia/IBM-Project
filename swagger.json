@@ -1,0 +1,29 @@
+{
+"swagger": "2.0",
+"info": {
+"version": "1.0.0", //version of the OpenAPI Specification
+"title": "My User Project CRUD",
+"description": "My User Project Application API",
+"license": {
+"name": "MIT",
+"url": "https://opensource.org/licenses/MIT"
+}
+},
+"host": "localhost:3000",
+"basePath": "express/",
+"tags": [
+{
+"name": "Users",
+"description": "API for users in the system"
+}
+],
+"schemes": [
+"http:get"
+],
+"consumes": [
+"application/json"
+],
+"produces": [
+"application/json"
+]
+}
