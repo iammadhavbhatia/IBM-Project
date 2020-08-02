@@ -1,3 +1,2 @@
-Project
-
-To see a demo and further details go to -
+Internship Project
+To see further details-Watch the video
